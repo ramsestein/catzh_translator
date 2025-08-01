@@ -45,7 +45,7 @@ Sistema modular y escalable para entrenar múltiples modelos de traducción auto
 1. **Clonar el repositorio:**
 
    ```bash
-   git clone https://github.com/tu-usuario/catalan-chinese-translator.git
+   git clone https://github.com/ramsestein/catalan-chinese-translator.git
    cd catalan-chinese-translator
    ```
 
